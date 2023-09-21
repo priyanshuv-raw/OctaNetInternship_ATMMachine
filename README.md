@@ -12,7 +12,7 @@ Tech Stack Used:
 
 How to Use it:
 
-Open the project on my GitHub profile: https://github.com/priyanshuv-raw/OctaNetInternship_CUI_ATM
+Open the project on my GitHub profile: https://github.com/priyanshuv-raw/OctaNetInternship_CUI_ATM <br>
 Clone or download the project to your local machine.
 Run the "app.py" file.
 
